@@ -1,1 +1,2 @@
 Homework/project for the class Advanced Econometrics: Simulation Methods held by Prof. Flachaire at AMSE in the fall semester 2020. The task was to take a previous project with a basic OLS specification, compare the base OLS to nonlinear methods and try to include the nonlinearities found into a new OLS specification.
+Repository includes as .csv-file with the used data and a notebook with the analysis.
